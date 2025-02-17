@@ -1,10 +1,10 @@
 <h2 align="left">About Me</h2>
 
-<p align="left"> Hello! My name is Gustavo Rodrigues Gonçalves, and I have a Bachelor's degree in Mathematics from UNESP. During my studies, I developed a strong passion for Data Science and Data Analytics, fields that combine logic, statistics, and technology to transform data into valuable insights.
+<p align="left"> Hello! My name is Gustavo Rodrigues Gonçalves, and I have a Bachelor's degree in Mathematics from UNESP. During my studies, I developed a strong passion for technology
 
 Currently, I am pursuing my second degree in Systems Analysis and Development, aiming to enhance my technical skills and deepen my knowledge.
 
-I am always looking for new challenges and opportunities to apply my knowledge in practical projects, contribute to strategic decision-making, and create impact through data. </p>
+I am always looking for new challenges and opportunities to apply my knowledge in practical projects. </p>
 
 <h2 align="left">Techs</h2>
 
@@ -15,6 +15,7 @@ I am always looking for new challenges and opportunities to apply my knowledge i
 <img align="center" alt="MySQL logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
 <img align="center" alt="R logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/R-.svg">
 <img align="center" alt="Azure logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Azure.svg">
+<img align="center" alt="MongoDB logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
 <img align="center" alt="Anaconda logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg">
 <img align="center" alt="Microsoft SQL Server logo" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png">
 <img align="center" alt="Pandas logo" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png">
