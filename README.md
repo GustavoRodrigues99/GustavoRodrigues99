@@ -9,29 +9,14 @@ I am always looking for new challenges and opportunities to apply my knowledge i
 <h2 align="left">Techs</h2>
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
-<h4>Data</h4>
-<img align="center" alt="Python logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Python.svg">
-<img align="center" alt="SQL logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg">
-<img align="center" alt="MySQL logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
-<img align="center" alt="R logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/R-.svg">
-<img align="center" alt="Azure logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Azure.svg">
-<img align="center" alt="MongoDB logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
-<img align="center" alt="Anaconda logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg">
-<img align="center" alt="Microsoft SQL Server logo" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png">
-<img align="center" alt="Pandas logo" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png">
-<img align="center" alt="NumPy logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/NumPy.svg">
-<img align="center" alt="Matplotlib logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg">
-<img align="center" alt="TensorFlow logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg">
-<img align="center" alt="Keras logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Keras.svg">
-<img align="center" alt="LaTex logo" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png">
-
-
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
 <h4>Front-end</h4>
   <img align="center" alt="HTML logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg">
   <img align="center" alt="CSS logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg">
+  <img align="center" alt="Tailwind logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
   <img align="center" alt="JavaScript logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
   <img align="center" alt="React logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg" />
+  <img align="center" alt="TypeScript logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+  <img align="center" alt="Angular logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Angular.svg" />
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
@@ -39,6 +24,15 @@ I am always looking for new challenges and opportunities to apply my knowledge i
   <img align="center" alt="Csharp logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"/>
   <img align="center" alt="Nodejs logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Node.js.svg">
 </div>
+
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+<h4>Data</h4>
+<img align="center" alt="Python logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Python.svg">
+<img align="center" alt="SQL logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg">
+<img align="center" alt="MySQL logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
+<img align="center" alt="R logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/R-.svg">
+<img align="center" alt="Azure logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/Azure.svg">
+<img align="center" alt="MongoDB logo" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
 
 <h2 align="left">SocialMedia</h2>
 <a href="https://www.linkedin.com/in/gustavo-rodrigues-gon%C3%A7alves/" target="_blank"><img alt="Perfil Linkedin" height="40" width="50" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" target="_blank"></a>
